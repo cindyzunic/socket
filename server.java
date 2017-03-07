@@ -8,6 +8,7 @@ import java.net.*;
 
 public class server {
 
+	//based on TCPServer.java and UDPServer.java from text book
     public static void main(String[] args) throws Exception {
 	/* ---- tcp negotiation begin --- */
 

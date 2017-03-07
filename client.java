@@ -8,6 +8,7 @@ import java.net.*;
 
 public class client {
 
+	//based on TCPClient.java and UDPClient.java from text book
     public static void main(String[] args) throws Exception {
 
         if(args.length < 4) {
